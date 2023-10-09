@@ -16,6 +16,25 @@
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+
+.centered-list {
+  text-align: center;
+  list-style:none ;
+  padding: 0;
+}
+
+.centered-list li {
+  margin: 10px 0;
+}
+
+.centered-list a {
+  text-decoration: underline;
+  color: purple ;
+  font-weight: bold;
+  font-size: 17px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 body {
   background-color:burlywood;
   text-align: center;
