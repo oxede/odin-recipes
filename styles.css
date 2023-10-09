@@ -1,0 +1,29 @@
+.header-1 {
+  font-size: 70px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  text-align: center;
+  font-weight: bolder;
+}
+
+.gif {
+  display: block; 
+  margin: 0 auto; 
+  max-width: 100%; 
+  height: auto;
+}
+
+.header-2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color:burlywood;
+  text-align: center;
+}
+
+ul {
+  text-align: left; 
+    margin: 0 auto;  
+    padding-left: 0;
+    list-style-position: inside;
+}
