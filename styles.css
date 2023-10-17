@@ -1,6 +1,7 @@
 .header-1 {
   font-size: 3rem;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
   text-align: center;
   font-weight: bolder;
   padding: 20px;
@@ -8,26 +9,26 @@
 }
 
 .gif {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px; 
-    overflow: hidden; 
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .header-2 {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 1.6rem;
   padding: 20px;
   background-color: coral;
 }
 
-
 .centered-list {
   text-align: center;
-  list-style:none ;
+  list-style: none;
   padding: 0;
   font-size: 1rem;
 }
@@ -38,10 +39,10 @@
 
 .centered-list a {
   text-decoration: underline;
-  color: purple ;
+  color: purple;
   font-weight: bold;
   font-size: 17px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   transition: 0.3s;
 }
 
@@ -49,19 +50,21 @@
   color: mediumspringgreen;
 }
 
-body, h1, h2, .centered-list a {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+body,
+h1,
+h2,
+.centered-list a {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
 body {
-  background-color:burlywood;
+  background-color: burlywood;
   text-align: center;
 }
 
 ul {
-  text-align: left; 
-    margin: 0 auto;  
-    padding-left: 0;
-    list-style-position: inside;
+  text-align: left;
+  margin: 0 auto;
+  padding-left: 0;
+  list-style-position: inside;
 }
